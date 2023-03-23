@@ -3,6 +3,8 @@ package com.Springjdbc;
 public class App {
   public static void main(String[] args) {
     System.out.println("Hello World!");
-    spring empid ;
+    int i=10;
+    int j=20;
+
   }
 }
